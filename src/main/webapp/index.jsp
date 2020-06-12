@@ -30,6 +30,11 @@
 </tr>
 
 <tr>
+<td>Password:</td>
+<td><input type="Password" size=25 name="pwd"></td>
+</tr>
+
+<tr>
 <td ><input type="Reset"></td>
 <td><input type="submit" onclick="return check(this.form)" value="Login"></td>
 </tr>
